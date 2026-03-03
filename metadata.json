@@ -1,0 +1,5 @@
+{
+  "name": "Reddit Ops Dashboard",
+  "description": "Operational dashboard for tracking Reddit account warming, capacity forecasting, and VA workflows.",
+  "requestFramePermissions": []
+}
